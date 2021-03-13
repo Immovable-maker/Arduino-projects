@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\tsr98\.gradle\caches\transforms-2\files-2.1\509471315b84115814d49fc993bdd1df\appcompat-v7-21.0.3\AndroidManifest.xml:14:4-17:12
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\tsr98\.gradle\caches\transforms-2\files-2.1\6b1bb8159625624864b631be9a28c7d4\support-v4-21.0.3\AndroidManifest.xml:14:4-17:12
+INJECTED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml:3:5-26
+		INJECTED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml
+		INJECTED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml
+		ADDED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml
+		ADDED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml:5:5-73
+	android:name
+		ADDED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml:5:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml:6:22-65
+application
+ADDED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml:8:5-26:19
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\tsr98\.gradle\caches\transforms-2\files-2.1\509471315b84115814d49fc993bdd1df\appcompat-v7-21.0.3\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\tsr98\.gradle\caches\transforms-2\files-2.1\509471315b84115814d49fc993bdd1df\appcompat-v7-21.0.3\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\tsr98\.gradle\caches\transforms-2\files-2.1\6b1bb8159625624864b631be9a28c7d4\support-v4-21.0.3\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\tsr98\.gradle\caches\transforms-2\files-2.1\6b1bb8159625624864b631be9a28c7d4\support-v4-21.0.3\AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.led.led.DeviceList
+ADDED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml:13:9-21:20
+	android:label
+		ADDED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml:15:13-45
+	android:name
+		ADDED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml:14:13-39
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.led.led.ledControl
+ADDED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml:22:9-25:20
+	android:label
+		ADDED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml:24:13-40
+	android:name
+		ADDED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml:23:13-39
+uses-sdk
+INJECTED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml
+INJECTED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\tsr98\.gradle\caches\transforms-2\files-2.1\509471315b84115814d49fc993bdd1df\appcompat-v7-21.0.3\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\tsr98\.gradle\caches\transforms-2\files-2.1\509471315b84115814d49fc993bdd1df\appcompat-v7-21.0.3\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\tsr98\.gradle\caches\transforms-2\files-2.1\6b1bb8159625624864b631be9a28c7d4\support-v4-21.0.3\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\tsr98\.gradle\caches\transforms-2\files-2.1\6b1bb8159625624864b631be9a28c7d4\support-v4-21.0.3\AndroidManifest.xml:15:5-42
+INJECTED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml
+INJECTED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml
+		ADDED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml
+		INJECTED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml
+		ADDED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml
+		INJECTED from C:\FPA13UGILJWNZUL\LED\app\src\main\AndroidManifest.xml
